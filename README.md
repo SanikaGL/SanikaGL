@@ -18,7 +18,7 @@ Currently learning python!
 
 
 Reach out to me at 
-Email : sanikaglsincha@gmail.com
+sanikaglsincha@gmail.com
 
 <!--
 **SanikaGL/SanikaGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
