@@ -53,7 +53,6 @@ I am currently building a **scalable, real-time full-stack voting platform** foc
 **Cloud**  
 * AWS
 <br>
-
 ### <span style="color:#5b7c99;">Featured Project</span>
 
 **Real-Time Voting Platform** *(Currently Building)*
