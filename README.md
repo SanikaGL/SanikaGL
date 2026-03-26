@@ -27,6 +27,7 @@ I am currently building a **scalable, real-time full-stack voting platform** foc
 * Cloud deployment  
 * Real-time application architecture
 <br>
+
 ### <span style="color:#5b7c99;">Tech Stack</span>
 
 **Languages**  
