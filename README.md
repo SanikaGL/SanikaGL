@@ -1,90 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e0f2fe,100:f1f5f9&height=110&section=header&text=Hi%2C%20I%27m%20Sanika%20GL%20%F0%9F%91%8B&fontSize=26&fontColor=334155&animation=fadeIn&fontAlignY=42&desc=Pre-final%20Year%20Computer%20Science%20Student&descAlignY=68&descSize=14&descColor=64748b" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e0f2fe,100:f1f5f9&height=110&section=header&text=Sanika%20GL&fontSize=26&fontColor=334155&animation=fadeIn&fontAlignY=42&desc=Pre-final%20Year%20Computer%20Science%20Student&descAlignY=68&descSize=14&descColor=64748b" width="100%" />
 </div>
 
-<table width="100%" cellpadding="22" cellspacing="0" bgcolor="#f8fbff">
-  <tr>
-    <td>
+<br>
 
-### <span style="color:#5b7c99;">About Me</span>
+## <span style="color:#5b7c99;">About Me</span>
 
-I am a pre-final year Computer Science student at **Government Engineering College, Hassan**.
-
-I am interested in **web development**, **cloud computing**, and **AI**, and I enjoy building practical projects to strengthen my skills.
+🎓 I'm a pre-final year Computer Science student at **Government Engineering College, Hassan**  
+🌐 Currently working on **full-stack web development**, **backend systems**, and **cloud-based applications**  
+🧠 Learning **real-time system design**, **distributed systems**, and **cloud deployment**  
+⚙️ Currently building a **scalable, real-time full-stack voting platform** using modern backend and cloud technologies  
+🎯 Interested in building **practical, scalable, and real-world software systems**
 
 <br>
 
-### <span style="color:#5b7c99;">Currently Working On</span>
-
-I am currently building a **scalable, real-time full-stack voting platform** focused on backend development, distributed systems, and cloud-based scalability.
-
-<br>
-
-### <span style="color:#5b7c99;">Currently Building Skills In</span>
-
-* Backend development  
-* Distributed systems  
-* Cloud deployment  
-* Real-time application architecture
-<br>
-
-### <span style="color:#5b7c99;">Tech Stack</span>
+## <span style="color:#5b7c99;">Tech Stack</span>
 
 **Languages**  
-* Python  
-* JavaScript  
+Python  
+JavaScript  
+
 <br>
 
 **Frontend**  
-* HTML  
-* CSS
-* JavaScript  
+HTML  
+CSS  
+
 <br>
 
 **Backend**  
-* Node.js  
-* Express.js  
+Node.js  
+Express.js  
+
 <br>
 
 **Real-Time / Distributed Systems**  
-* WebSocket  
-* Redis  
+WebSocket  
+Redis  
+
 <br>
 
 **Cloud**  
-* AWS
-<br>
-
-### <span style="color:#5b7c99;">Featured Project</span>
-
-**Real-Time Voting Platform** *(Currently Building)*
-
-A scalable, real-time full-stack voting platform designed to strengthen my understanding of backend systems, distributed real-time updates, and cloud-based scaling.
+AWS  
 
 <br>
 
-### <span style="color:#5b7c99;">Certification</span>
+## <span style="color:#5b7c99;">Certification</span>
 
-AWS Certified Cloud Practitioner
-
-<br>
-
-### <span style="color:#5b7c99;">Connect</span>
-
-**LinkedIn**  
-[linkedin.com/in/sanika-g-l-67674b311](https://www.linkedin.com/in/sanika-g-l-67674b311)
+🏆 **AWS Certified Cloud Practitioner**
 
 <br>
 
-**GitHub**  
-[github.com/SanikaGL](https://github.com/SanikaGL)
+## <span style="color:#5b7c99;">Connect With Me</span>
 
-<br>
+<div align="center">
 
-**Email**  
-sanikagl587@gmail.com
+<a href="https://www.linkedin.com/in/sanika-g-l-67674b311">
+  <img src="https://img.shields.io/badge/LinkedIn-E8F1FB?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=E8F1FB" />
+</a>
 
-    
+<a href="https://github.com/SanikaGL">
+  <img src="https://img.shields.io/badge/GitHub-F3F4F6?style=for-the-badge&logo=github&logoColor=111827&labelColor=F3F4F6" />
+</a>
 
-</tr>
-</table>
+<a href="mailto:sanikagl587@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FEF2F2?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FEF2F2" />
+</a>
+
+</div>
