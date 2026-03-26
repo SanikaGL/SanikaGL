@@ -26,39 +26,32 @@ I am currently building a **scalable, real-time full-stack voting platform** foc
 * Distributed systems  
 * Cloud deployment  
 * Real-time application architecture
-
 <br>
-
 ### <span style="color:#5b7c99;">Tech Stack</span>
 
 **Languages**  
 * Python  
 * JavaScript  
-
 <br>
 
 **Frontend**  
 * HTML  
 * CSS
 * JavaScript  
-
 <br>
 
 **Backend**  
 * Node.js  
 * Express.js  
-
 <br>
 
 **Real-Time / Distributed Systems**  
 * WebSocket  
 * Redis  
-
 <br>
 
 **Cloud**  
 * AWS
-
 <br>
 
 ### <span style="color:#5b7c99;">Featured Project</span>
@@ -88,8 +81,9 @@ AWS Certified Cloud Practitioner
 <br>
 
 **Email**  
-[sanikagl587@gmail.com]
+sanikagl587@gmail.com
 
     
-  </tr>
+
+</tr>
 </table>
