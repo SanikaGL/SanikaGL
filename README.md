@@ -1,73 +1,127 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:2563eb&height=180&section=header&text=Sanika%20GL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Pre-final%20Year%20Computer%20Science%20Student&descAlignY=62&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f8fafc,100:dbeafe&height=180&section=header&text=Sanika%20GL&fontSize=42&fontColor=1e293b&animation=fadeIn&fontAlignY=42&desc=Pre-final%20Year%20Computer%20Science%20Student&descAlignY=65&descSize=18&descColor=475569" />
 </p>
 
-<br>
+---
 
-<p align="center">
-  I am interested in <b>web development</b>, <b>cloud computing</b>, and <b>AI</b>, and I enjoy building practical projects to strengthen my skills.
-</p>
+<table width="100%">
+<tr>
+<td>
 
-<br><br>
+## About Me
 
-## Currently Building
+I am a pre-final year Computer Science student at **Government Engineering College, Hassan**.
 
-A scalable, real-time full-stack voting platform focused on backend development, distributed systems, and cloud-based scalability.
+I am interested in **web development**, **cloud computing**, and **AI**, and I enjoy building practical projects to strengthen my skills.
 
-<br>
+</td>
+</tr>
+</table>
 
-## Learning
+---
 
-Backend development with Node.js and Express  
-Real-time systems using WebSocket and Redis  
-Cloud deployment and scaling with AWS  
+<table width="100%">
+<tr>
+<td>
 
-<br>
+## Currently Working On
+
+I am currently building a **scalable, real-time full-stack voting platform** focused on backend development, distributed systems, and cloud-based scalability.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+<td>
+
+## Currently Building Skills In
+
+- Backend development
+- Distributed systems
+- Cloud deployment
+- Real-time application architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+<td>
 
 ## Tech Stack
 
-**Languages**  
-Python  
-JavaScript  
+### Languages
+- Python
+- JavaScript
 
-<br>
+### Frontend
+- HTML
+- CSS
 
-**Web Development**  
-HTML  
-CSS  
-Node.js  
-Express.js  
+### Backend
+- Node.js
+- Express.js
 
-<br>
+### Real-Time / Distributed Systems
+- WebSocket
+- Redis
 
-**Real-Time / Distributed Systems**  
-WebSocket  
-Redis  
+### Cloud
+- AWS
 
-<br>
+</td>
+</tr>
+</table>
 
-**Cloud**  
-AWS  
+---
 
-<br>
+<table width="100%">
+<tr>
+<td>
+
+## Featured Project
+
+### Real-Time Voting Platform *(Currently Building)*
+
+A scalable, real-time full-stack voting platform designed to strengthen my understanding of backend systems, distributed real-time updates, and cloud-based scaling.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+<td>
 
 ## Certification
 
-AWS Certified Cloud Practitioner
+- AWS Certified Cloud Practitioner
 
-<br>
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+<td>
 
 ## Connect
 
-**LinkedIn**  
-[linkedin.com/in/sanika-g-l-67674b311](https://www.linkedin.com/in/sanika-g-l-67674b311)
+- **LinkedIn:** [Sanika GL](https://www.linkedin.com/in/sanika-g-l-67674b311)
+- **GitHub:** [SanikaGL](https://github.com/SanikaGL)
+- **Email:** sanikagl587@gmail.com
 
-<br>
-
-**GitHub**  
-[github.com/SanikaGL](https://github.com/SanikaGL)
-
-<br>
-
-**Email**  
-sanikagl587@gmail.com
+</td>
+</tr>
+</table>
