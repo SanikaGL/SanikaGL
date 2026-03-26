@@ -33,8 +33,6 @@
 
 🏆 **AWS Certified Cloud Practitioner**
 
-<br>
-
 ## <span style="color:#5b7c99;">Connect With Me</span>
 
 <div align="center">
