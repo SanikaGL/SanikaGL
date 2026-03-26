@@ -11,39 +11,7 @@
 🧠 Learning **real-time system design**, **distributed systems**, and **cloud deployment**  
 ⚙️ Currently building a **scalable, real-time full-stack voting platform** using modern backend and cloud technologies  
 🎯 Interested in building **practical, scalable, and real-world software systems**
-
-<br>
-
-## <span style="color:#5b7c99;">Tech Stack</span>
-
-**Languages**  
-Python  
-JavaScript  
-
-<br>
-
-**Frontend**  
-HTML  
-CSS  
-
-<br>
-
-**Backend**  
-Node.js  
-Express.js  
-
-<br>
-
-**Real-Time / Distributed Systems**  
-WebSocket  
-Redis  
-
-<br>
-
-**Cloud**  
-AWS  
-
-<br>
+</br>
 
 ## <span style="color:#5b7c99;">Certification</span>
 
