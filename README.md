@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e0f2fe,100:f1f5f9&height=110&section=header&text=Sanika%20GL&fontSize=26&fontColor=334155&animation=fadeIn&fontAlignY=42&desc=Pre-final%20Year%20Computer%20Science%20Student&descAlignY=68&descSize=14&descColor=64748b" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e0f2fe,100:f1f5f9&height=110&section=header&text=Hi%2C%20I%27m%20Sanika%20GL%20%F0%9F%91%8B&fontSize=26&fontColor=334155&animation=fadeIn&fontAlignY=42&desc=Pre-final%20Year%20Computer%20Science%20Student&descAlignY=68&descSize=14&descColor=64748b" width="100%" />
 </div>
-
 <br>
 
 ## <span style="color:#5b7c99;">About Me</span>
