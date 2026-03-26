@@ -15,19 +15,19 @@
 ## <span style="color:#5b7c99;">Tech Stack</span>
 
 **Languages**  
-•Python    • JavaScript  
+• Python    • JavaScript  
 
 **Frontend**  
-•HTML      • CSS  
+• HTML      • CSS  
 
 **Backend**  
-•Node.js   • Express.js  
+• Node.js   • Express.js  
 
 **Real-Time / Distributed Systems**  
-•WebSocket • Redis  
+• WebSocket • Redis  
 
 **Cloud**  
-•AWS
+• AWS
 
 ## <span style="color:#5b7c99;">Certification</span>
 
